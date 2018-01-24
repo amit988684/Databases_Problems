@@ -3,6 +3,7 @@
 #include<time.h>
 #include<string.h>
 // int hello;
+int wow=0;
 long addr_value;
 typedef struct
 {
