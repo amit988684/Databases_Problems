@@ -2,7 +2,7 @@
 #include<stdlib.h>
 #include<time.h>
 #include<string.h>
-int hello;
+// int hello;
 long addr_value;
 typedef struct
 {
